@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(0, 213, 255);
+}
+.img1{
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    left: 5px;
+}
+.img2{
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    right: 5px;
+}
+h1{
+    text-align: center;
+}
+#ASS{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.imgg{
+    text-align: center;
+    margin-top: 160px;
+}
+.img{
+    width: 140px;
+    height: 180px;
+}
+.cursus{
+    text-align: center;
+    text-decoration: underline;
+}
+.ecole{
+    text-align: center;
+}
+#description{
+    text-align: center;
+    text-decoration: underline;
+}
+.moi{
+    text-align: center;
+}
